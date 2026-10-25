@@ -5,10 +5,13 @@
   <p>
     Turning ideas into useful, testable software — from computer vision to responsible AI agents.
   </p>
-  <a href="https://www.linkedin.com/in/brijesh-g-kotian-9800153a8/">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/brijeshgkotian-star?tab=repositories">All Projects</a>
-</div>
+  
+<a href="https://brijeshgkotian-star.github.io/">🌐 Portfolio</a>
+&nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/brijesh-g-kotian-9800153a8/">LinkedIn</a>
+&nbsp;·&nbsp;
+<a href="https://github.com/brijeshgkotian-star?tab=repositories">All Projects</a>
+  
 
 ---
 
