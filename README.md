@@ -8,6 +8,7 @@
   <a href="https://www.linkedin.com/in/brijesh-g-kotian-9800153a8/">LinkedIn</a>
   &nbsp;·&nbsp;
   <a href="https://github.com/brijeshgkotian-star?tab=repositories">All Projects</a>
+    <a [href="https://github.com/brijeshgkotian-star?tab=repositories](https://brijeshgkotian-star.github.io/)">PORTFOLIO</a>
 </div>
 
 ---
