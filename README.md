@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.svg" width="100%" alt="Brijesh G. Kotian — AI and Machine Learning developer" />
+<img src="banner.svg" width="100%" alt="Brijesh G. Kotian — AI and Machine Learning developer" />
 
   <h3>AI/ML Engineering Student · Python Developer · Full-Stack Builder</h3>
   <p>
